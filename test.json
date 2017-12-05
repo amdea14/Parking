@@ -1,35 +1,35 @@
 {
    "lots":[
 	{
-		"name": "Arc (Lot 22)",
+		"name": "Arc (Lot 25)",
 		"available": 5
    	},
 	{
-		"name": "Best (Lot 22)",
+		"name": "Best (Lot 2)",
 		"available": 3
    	},
 	{
-		"name": "Best Teacher (Lot 22)",
+		"name": "Best Teacher (Lot 3)",
 		"available": 2
    	},
 	{
-		"name": "Bock (Lot 22)",
+		"name": "Bock (Lot 12)",
 		"available": 0
    	},
 	{
-		"name": "Bukoff/Wilson/Seculoff (Lot 22)",
+		"name": "Bukoff/Wilson/Seculoff (Lot 19)",
 		"available": 1
    	},
 	{
-		"name": "Cameron/Platt/Alwood/Conrad/Fabianai (Lot 22)",
+		"name": "Cameron/Platt/Alwood/Conrad/Fabianai (Lot 17)",
 		"available": 0
    	},
 	{
-		"name": "Cameron/Platt/Alwood/Conrad/Fabianai Rock (Lot 22)",
+		"name": "Cameron/Platt/Alwood/Conrad/Fabianai Rock (Lot 18)",
 		"available": 2
    	},
 	{
-		"name": "Ford (Lot 22)",
+		"name": "Ford (Lot 11)",
 		"available": 4
    	},
 	{
@@ -37,59 +37,59 @@
 		"available": 20
    	},
 	{
-		"name": "Hershey Hall West (Lot 22)",
+		"name": "Hershey Hall West (Lot 21)",
 		"available": 10
    	},
 	{
-		"name": "Hockey (Lot 22)",
+		"name": "Hockey (Lot 5)",
 		"available": 15
    	},
 	{
-		"name": "Main (Lot 22)",
+		"name": "Main (Lot 1)",
 		"available": 24
    	},
 	{
-		"name": "Mattox (Lot 22)",
+		"name": "Mattox (Lot 27)",
 		"available": 2
    	},
 	{
-		"name": "Moss (Lot 22)",
+		"name": "Moss (Lot 15)",
 		"available": 6
    	},
 	{
-		"name": "Moss Rock (Lot 22)",
+		"name": "Moss Rock (Lot 16)",
 		"available": 1
    	},
 	{
-		"name": "Moyer (Lot 22)",
+		"name": "Moyer (Lot 20)",
 		"available": 3
    	},
 	{
-		"name": "Reiners (Lot 22)",
+		"name": "Reiners (Lot 23)",
 		"available": 2
    	},
 	{
-		"name": "Reiners Backside (Lot 22)",
+		"name": "Reiners Backside (Lot 24)",
 		"available": 5
    	},
 	{
-		"name": "Softball/Baseball (Lot 22)",
+		"name": "Softball/Baseball (Lot 14)",
 		"available": 30
    	},
 	{
-		"name": "T. Furth Center of Performing Arts (Lot 22)",
+		"name": "T. Furth Center of Performing Arts (Lot 8)",
 		"available": 25
    	},
 	{
-		"name": "The Depot Mexican Grill (Lot 22)",
+		"name": "The Depot Mexican Grill (Lot 10)",
 		"available": 12
    	},
 	{
-		"name": "UC (Lot 22)",
+		"name": "UC (Lot 6)",
 		"available": 7
    	},
 	{
-		"name": "UCA (Lot 22)",
+		"name": "UCA (Lot 4)",
 		"available": 21
    	},
 	{
