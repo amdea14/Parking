@@ -1,0 +1,100 @@
+{
+   "lots":[
+	{
+		"name": "Arc",
+		"available": 5
+   	},
+	{
+		"name": "Best",
+		"available": 3
+   	},
+	{
+		"name": "Best_teacher",
+		"available": 2
+   	},
+	{
+		"name": "Bock",
+		"available": 0
+   	},
+	{
+		"name": "Bukoff",
+		"available": 1
+   	},
+	{
+		"name": "Cameron",
+		"available": 0
+   	},
+	{
+		"name": "Cameron_rock",
+		"available": 2
+   	},
+	{
+		"name": "Ford",
+		"available": 4
+   	},
+	{
+		"name": "HersheyHallEast",
+		"available": 20
+   	},
+	{
+		"name": "HersheyHallWest",
+		"available": 10
+   	},
+	{
+		"name": "Hockey",
+		"available": 15
+   	},
+	{
+		"name": "Main",
+		"available": 24
+   	},
+	{
+		"name": "Mattox",
+		"available": 2
+   	},
+	{
+		"name": "Moss",
+		"available": 6
+   	},
+	{
+		"name": "Moss_rock",
+		"available": 1
+   	},
+	{
+		"name": "Moyer",
+		"available": 3
+   	},
+	{
+		"name": "Reiners",
+		"available": 2
+   	},
+	{
+		"name": "Reiners_back",
+		"available": 5
+   	},
+	{
+		"name": "Softball",
+		"available": 30
+   	},
+	{
+		"name": "Furth",
+		"available": 25
+   	},
+	{
+		"name": "Depo",
+		"available": 12
+   	},
+	{
+		"name": "UC",
+		"available": 7
+   	},
+	{
+		"name": "UCA",
+		"available": 21
+   	},
+	{
+		"name": "Villas",
+		"available": 2
+   	}
+   ]   
+}
