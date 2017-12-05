@@ -1,31 +1,31 @@
 {
    "lots":[
 	{
-		"name": "Arc",
+		"name": "Arc (Lot 22)",
 		"available": 5
    	},
 	{
-		"name": "Best",
+		"name": "Best (Lot 22)",
 		"available": 3
    	},
 	{
-		"name": "Best_teacher",
+		"name": "Best Teacher (Lot 22)",
 		"available": 2
    	},
 	{
-		"name": "Bock",
+		"name": "Bock (Lot 22)",
 		"available": 0
    	},
 	{
-		"name": "Bukoff",
+		"name": "Bukoff/Wilson/Seculoff (Lot 22)",
 		"available": 1
    	},
 	{
-		"name": "Cameron",
+		"name": "Cameron/Platt/Alwood/Conrad/Fabianai (Lot 22)",
 		"available": 0
    	},
 	{
-		"name": "Cameron_rock",
+		"name": "Cameron/Platt/Alwood/Conrad/Fabianai Rock (Lot 22)",
 		"available": 2
    	},
 	{
