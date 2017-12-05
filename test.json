@@ -29,71 +29,71 @@
 		"available": 2
    	},
 	{
-		"name": "Ford",
+		"name": "Ford (Lot 22)",
 		"available": 4
    	},
 	{
-		"name": "HersheyHallEast",
+		"name": "Hershey Hall East (Lot 22)",
 		"available": 20
    	},
 	{
-		"name": "HersheyHallWest",
+		"name": "Hershey Hall West (Lot 22)",
 		"available": 10
    	},
 	{
-		"name": "Hockey",
+		"name": "Hockey (Lot 22)",
 		"available": 15
    	},
 	{
-		"name": "Main",
+		"name": "Main (Lot 22)",
 		"available": 24
    	},
 	{
-		"name": "Mattox",
+		"name": "Mattox (Lot 22)",
 		"available": 2
    	},
 	{
-		"name": "Moss",
+		"name": "Moss (Lot 22)",
 		"available": 6
    	},
 	{
-		"name": "Moss_rock",
+		"name": "Moss Rock (Lot 22)",
 		"available": 1
    	},
 	{
-		"name": "Moyer",
+		"name": "Moyer (Lot 22)",
 		"available": 3
    	},
 	{
-		"name": "Reiners",
+		"name": "Reiners (Lot 22)",
 		"available": 2
    	},
 	{
-		"name": "Reiners_back",
+		"name": "Reiners Backside (Lot 22)",
 		"available": 5
    	},
 	{
-		"name": "Softball",
+		"name": "Softball/Baseball (Lot 22)",
 		"available": 30
    	},
 	{
-		"name": "Furth",
+		"name": "T. Furth Center of Performing Arts (Lot 22)",
 		"available": 25
    	},
 	{
-		"name": "Depo",
+		"name": "The Depot Mexican Grill (Lot 22)",
 		"available": 12
    	},
 	{
-		"name": "UC",
+		"name": "UC (Lot 22)",
 		"available": 7
    	},
 	{
-		"name": "UCA",
+		"name": "UCA (Lot 22)",
 		"available": 21
    	},
 	{
-		"name": "Villas",
+		"name": "Villas (Lot 13)",
 		"available": 2
    	}
    ]   
