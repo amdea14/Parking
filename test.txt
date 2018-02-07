@@ -1,0 +1,24 @@
+Arc (Lot 25): 5
+Best (Lot 2): 3
+Best Teacher (Lot 3): 2
+Bock (Lot 12): 0
+Bukoff/Wilson/Seculoff (Lot 19): 1
+Cameron/Platt/Alwood/Conrad/Fabianai (Lot 17): 0
+Cameron/Platt/Alwood/Conrad/Fabianai Rock (Lot 18): 2
+Ford (Lot 11): 4
+Hershey Hall East (Lot 22): 20
+Hershey Hall West (Lot 21): 10
+Hockey (Lot 5): 15
+Main (Lot 1): 24
+Mattox (Lot 27): 2
+Moss (Lot 15): 6
+Moss Rock (Lot 16): 1
+Moyer (Lot 20): 3
+Reiners (Lot 23): 2
+Reiners Backside (Lot 24): 5
+Softball/Baseball (Lot 14): 30
+T. Furth Center of Performing Arts (Lot 8): 25
+The Depot Mexican Grill (Lot 10): 12
+UC (Lot 6): 7
+UCA (Lot 4): 21
+Villas (Lot 13): 2
